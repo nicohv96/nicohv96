@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 🌎 I'm a 29-year-old tech enthusiast from Argentina.<br/>
-🌱 I’m currently learning Vue.js and improving my backend skills with Laravel.<br/>
+🌱 I’m currently learning Vue.js and improving my backend skills with Laravel and Livewire.<br/>
 ⚡ Fun fact: I started programming by automating tasks for my own PC maintenance business.
 
 ## 🌐 Socials:

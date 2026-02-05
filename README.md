@@ -2,6 +2,10 @@
 
 <h3 align="center">ICT analyst and web developer</h3>
 
+<p align="center">
+  <img src="./banner.png" width="600" />
+</p>
+
 ## 💫 About Me:
 🌎 I'm a 29-year-old tech enthusiast from Argentina.<br/>
 🌱 I’m currently learning Vue.js and improving my backend skills with Laravel and Livewire.<br/>

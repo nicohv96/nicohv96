@@ -3,7 +3,7 @@
 <h3 align="center">ICT analyst and web developer</h3>
 
 <p align="center">
-  <img src="./banner.png" width="600" />
+  <img src="./banner.png" width="300" />
 </p>
 
 ## 💫 About Me:
